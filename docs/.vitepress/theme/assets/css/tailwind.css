@@ -214,7 +214,9 @@ h4,
   }
 }
 
-.kit-button {
+.kit-button,
+.hs_submit,
+.hs-submit {
   @apply inline-block appearance-none;
   @apply px-5 py-3 relative;
   @apply text-gold font-bold uppercase text-center;
