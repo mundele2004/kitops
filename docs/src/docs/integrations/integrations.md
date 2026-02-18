@@ -27,7 +27,7 @@ The most fully-featured model registry integration for ModelKits is the [Jozu Hu
 * Azure Container Registry
 * Docker Hub
 * GitHub Packages Container Registry
-* GitLab Container Registry
+* GitLab Container Registry (on-prem only, [see their docs](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs/supported-media-types.md?ref_type=heads))
 * Google Artifact Registry
 * Harbor
 * IBM Cloud Container Registry
